@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "run": "node_modules/.bin/webpack-dev-server --process --hot --inline -d",
+    "dev": "node_modules/.bin/webpack-dev-server --process --hot --inline -d",
     "build": "cross-env NODE_ENV=production node_modules/.bin/webpack --process --hide-modules"
   },
   "author": "kuo zi",
