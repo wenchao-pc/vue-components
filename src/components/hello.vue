@@ -1,6 +1,6 @@
 <template>
     <div class="red">
-        Hello Vue1
+        Hello Vue
     </div>
 </template>
 <style>
