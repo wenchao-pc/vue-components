@@ -1,5 +1,5 @@
 # vue-components
 
-###npm init
+###npm install
 ###npm run dev
-###npm run buid
+###npm run build
